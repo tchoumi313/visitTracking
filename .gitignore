@@ -1,0 +1,3 @@
+*.log
+.vscode
+src/frontend/react-admin/src/redux/Actions/profile.ts
